@@ -5,7 +5,7 @@ Quantumult X入门入门教程<img width="228" alt="0e9480be9870bf8fde60a6d30719
 
 一、Quantumult X简介与下载
 Quantumult X 简称“X”，是Ray功能强大的网络，工具主要介绍它的代理功能。
-Quantumult X目前支持的协议：SS/SSR、V2、Trojan、HTTP(S
+Quantumult X目前支持的协议：SS/SSR、V2rayN、Trojan、HTTP(S
 ) APP，7.99美元，需要美区等AppleID登录用Apple Store下载。
 
 注册美国AppleID教程：https://youtu.be/KOU-PWHMb8o
