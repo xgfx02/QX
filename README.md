@@ -1,6 +1,8 @@
 Quantumult X入门入门教程<img width="228" alt="0e9480be9870bf8fde60a6d30719ad96" src="https://user-images.githubusercontent.com/96102326/155284616-da7641d5-95a1-4005-bb6f-b8fc10eebf76.png">
+熊哥小铺：https://xintaikeji.cf/
 
 电报交流群：https://t.me/xgfxl
+
 一、Quantumult X简介与下载
 Quantumult X 简称“X”，是Ray功能强大的网络，工具主要介绍它的代理功能。
 Quantumult X目前支持的协议：SS/SSR、V2、Trojan、HTTP(S
