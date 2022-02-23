@@ -45,5 +45,30 @@ static=default, proxy, direct, reject
 
 筛选节点的策略组
 
+static= HK 香港, server-tag-regex= 香港|🇭🇰|HK, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/HK.png
+static= TW 台湾, server-tag-regex= 台湾|🇹🇼|TW, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/TW.png
+static= US 美国, server-tag-regex= 美国|🇺🇸|US, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/US.png
+static= JP 日本, server-tag-regex= 日本|🇯🇵|JP, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/JP.png
+static= KR 韩国, server-tag-regex= 韩国|🇰🇷|KR, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/KR.png
+static= SG 新加坡, server-tag-regex= 新加坡|🇸🇬|SG|狮城, img-url=https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/SG.png
+url-latency-benchmark=国际网络（自动选择节点）, server-tag-regex=.*, check-interval=600, tolerance=0, img-url=globe.system
+static=Netflix, server-tag-regex=.*, img-url=play.circle.fill.system
+
+
+Quantumult X懒人配置
+分享两位大佬提供的配置规则
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
+
+
+
+免责声明：
+的揭秘中涉及到任何情况的真实性和分析能力，以展示资源共享和保证学习、内容研究、应用和有效性，请自行判断。
+以上内容，请大家自行判断使用，但不要因任何内容错误导致的损失或损害
+您必须在下载后24小时内从您的计算机或手机中穿越所要的全部
+如果任何人有或认为分享其个人可能受到损害的权利，则应及时通知单位并提供身份证明，以证明我们将在收到文件后删除相关内容。
+您都应仔细阅读此声明，kjf 随时更改或添加此免责声明的权利。
+
+
 
 
